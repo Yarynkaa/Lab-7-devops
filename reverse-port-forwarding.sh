@@ -1,0 +1,1 @@
+ssh -p 3722 -R 13722:localhost:22 root@yoko.ukrtux.com
